@@ -1,9 +1,9 @@
 # AzureHDInsight
 ## Creating a cluster in the Azure Cloud.
 
-###Prerequisites
+### Prerequisites
 Before you begin this tutorial, you must have:
-**Azure subscription:** To create a free one-month trial account, browse to [Get Azure for Free](https://azure.microsoft.com/en-us/free/)
+- **Azure subscription:** To create a free one-month trial account, browse to [Get Azure for Free](https://azure.microsoft.com/en-us/free/)
 
 ### Step 1:
 [Go to Azure](https://azure.microsoft.com/)
@@ -40,7 +40,7 @@ Before you begin this tutorial, you must have:
 - select the location 
 ![alt text](https://github.com/udayallu/AzureHDInsight/blob/master/azure_clus/img8.PNG)
 - click on the next
-## Step 7
+### Step 7
 - Now u r in the Storage configuration
 - no changes in the **Primary storage type & selection method**
 - gave a name for **create a new storage account**
